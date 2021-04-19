@@ -1,9 +1,5 @@
-**Challenge #1**
-A 3 tier environment is a common setup. Use a tool of your choosing/familiarity create these resources. Please remember we will not be judged on the outcome but more focusing on the approach, style and reproducibility.
 
-Solution:
-
-3 tier application can be deployed in multilple ways. For simplicity, I am planning to use docker containers to build the same.
+A 3 tier application can be deployed in multilple ways. For simplicity, I am planning to use docker containers to build the same.
 
 Three Tier architecture contains below components,
 1. Frontied tier: It will host the web application
